@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi App de Películas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Menú lateral -->
+    <nav class="sidebar">
+        <ul>
+            <li><a href="index.html"><img src="iconos/home.png"> Inicio</a></li>
+            <li><a href="tendencias.html"><img src="iconos/fire.png"> Tendencias</a></li>
+            <li><a href="favoritos.html"><img src="iconos/star.png"> Favoritos</a></li>
+            <li><a href="config.html"><img src="iconos/settings.png"> Configuración</a></li>
+        </ul>
+    </nav>
+
+    <!-- Contenido principal -->
+    <div class="content">
+        <h1>Bienvenido a Mi App</h1>
+        <p>Explora las mejores películas y series.</p>
+    </div>
+
+</body>
+</html>
